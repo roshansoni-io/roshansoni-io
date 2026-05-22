@@ -1,174 +1,169 @@
-<!-- Header -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:7928ca,50:2afadf,75:00d4ff,100:00ff88&height=240&section=header&text=ROSHAN%20SONI&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%20|%20%20System%20Architect%20%20|%20%20Real-time%20Builder&descSize=16&descColor=f0f0f0&animation=fadeIn"/>
-</div>
-
----
-
-<!-- Terminal -->
+<!-- Header Banner -->
 <div align="center">
 
-```
-╭─ roshan@dev ────────────────────────────────────────────────╮
-│ whoami                                                      │
-│ ➜ Full Stack Engineer · System Design · Real-time Systems   │
-│                                                            │
-│ uptime                                                     │
-│ ➜ Coding since 2020 · Building in public                   │
-│                                                            │
-│ status                                                     │
-│ ➜ Open to internships & collaborations                     │
-│ ➜ Building: Real-time tools                                │
-│ ➜ Learning: System Design + WASM                           │
-│ ➜ Exploring: WebXR + 3D                                    │
-╰────────────────────────────────────────────────────────────╯
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:38BDF8,100:22D3EE&height=250&section=header&text=Roshan%20Soni&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20•%20MERN%20•%20C%2B%2B%20•%20Python&descSize=18&descColor=e2e8f0&animation=fadeIn"/>
 
 </div>
 
+# Hi, I'm Roshan 👋
+
+I'm a student developer passionate about building scalable applications, learning system design, computer graphics, and software engineering principles.
+
+**🌐 Portfolio:** [roshansoni.netlify.app](https://roshansoni.netlify.app)
+
+Currently focused on:
+- Full Stack Web Development (MERN Stack)
+- Low-level Programming & System Design
+- Game Development with C++ & Raylib
+- AI/Machine Learning
+
 ---
 
-## SKILLS
+## About Me
 
-<div align="center">
+```txt
+Role       : Student Developer & Learner
+Location   : India
+Languages  : C++, Python, JavaScript, TypeScript
+Tech Stack : React, Node.js, Express, MongoDB, Firebase
+Tools      : Git, Linux, VS Code, Neovim, Bash
+Philosophy : Build. Learn. Ship. Repeat.
+```
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css" />
+</p>
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
 
-### Backend & Database
-![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Express](https://skillicons.dev/icons?i=express&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Real-time & Protocols
-![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge)
+### Database & Backend Services
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
 
-### Creative Stack
-![Blender](https://skillicons.dev/icons?i=blender&theme=dark)
-![Unity](https://skillicons.dev/icons?i=unity&theme=dark)
-![Unreal](https://skillicons.dev/icons?i=unreal&theme=dark)
+### Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash,neovim" />
+</p>
 
-### Dev Tools
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+### Game Development
 
-</div>
-
----
-
-## PROJECTS
-
-<details>
-<summary><b>MECHAN</b> — <code>WebRTC · Firebase · React</code></summary>
-
-```
-> Booting real-time engine...
-> Peer connection established ✓
-> Firebase sync active ✓
-> UI ready ✓
-> Status: LIVE
-```
-
-🔗 https://mechan.netlify.app
-
-</details>
-
-<details>
-<summary><b>CHATAPP</b> — <code>WebSockets · Node.js</code></summary>
-
-```
-> Connecting socket...
-> Auth success ✓
-> Syncing chats ✓
-> Status: ONLINE
-```
-
-🔗 https://chatty-5b6x.onrender.com/
-
-</details>
-
-<details>
-<summary><b>WEATHER DASHBOARD</b> — <code>React · API</code></summary>
-
-```
-> Fetching location...
-> Loading API...
-> Rendering UI ✓
-```
-
-🔗 https://react-weather-app-three-dusky.vercel.app/
-
-</details>
-
-<details>
-<summary><b>TELEGRAM BOT</b> — <code>Node.js · Gemini</code></summary>
-
-```
-> Initializing AI...
-> Connecting Telegram ✓
-> Awaiting queries
-```
-
-🔗 https://t.me/Class_roombot
-
-</details>
+<p>
+<img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge" />
+</p>
 
 ---
 
-## GITHUB STATS
+## Featured Projects
+
+### Mechan – Real-Time Collaboration Platform
+
+A browser-based collaboration platform enabling teams to work together in real-time with video chat, screen sharing, and synchronized code editing.
+
+**What I Built:**
+- React-based responsive UI with Tailwind CSS for seamless UX
+- Peer-to-peer communication using WebRTC
+-Firebase-based signaling and synchronization
+-Responsive React interface
+- End-to-end infrastructure for peer connections
+
+**Tech Stack:** React • Firebase • WebRTC • Tailwind CSS
+
+**Key Learning:** Distributed systems, peer-to-peer communication, state management at scale
+
+🔗 [Live Demo](https://mechan.netlify.app) • [GitHub](https://github.com/roshansoni-io)
+
+---
+
+### ChatApp – Real-Time Chat Application
+
+A socket-based chat application demonstrating efficient real-time messaging with user authentication and message history.
+
+**What I Built:**
+- WebSocket server using Express.js and Socket.IO for low-latency messaging
+- User authentication and session management
+- Persistent message storage with MongoDB
+- Responsive client built with vanilla JavaScript
+
+**Tech Stack:** Node.js • Express • Socket.IO • MongoDB • JavaScript
+
+**Key Learning:** Event-driven architecture, WebSocket protocols, backend optimization for concurrent users
+
+🔗 [Live Demo](https://chatty-5b6x.onrender.com/) • [GitHub](https://github.com/roshansoni-io)
+
+---
+
+## GitHub Activity
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshansoni-io&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshansoni-io&layout=compact&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshansoni-io&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshansoni-io&theme=radical&hide_border=true" width="60%"/>
-
-</div>
-
----
-
-## FOCUS
-
-```json
-{
-  "learning": ["System Design", "WASM", "Scaling"],
-  "building": ["Real-time apps", "Full-stack systems"],
-  "exploring": ["WebXR", "3D Web"]
-}
-```
-
----
-
-## CAPABILITIES
-
-- Real-time systems specialist  
-- Thinks in systems, not just code  
-- Combines dev + design + 3D  
-- Writes scalable architecture  
-
----
-
-## PHILOSOPHY
+</div> <br>
 
 <div align="center">
 
-```
-"First, solve the problem. Then, write the code."
-```
+<img src="https://komarev.com/ghpvc/?username=roshansoni-io&label=Profile%20Views&color=2563eb&style=flat" />
+<div>
 
-</div>
 
 ---
 
-<!-- Footer -->
+## Learning & Growth
+
+### Currently Mastering
+- **System Design** – Scalability, databases, distributed systems
+- **Reinforcement Learning** – PyTorch, policy gradients, agent training
+- **Computer Graphics** – 2D/3D rendering, game mathematics
+- **Linux Internals** – Kernel concepts, process management, system calls
+
+### Next in Queue
+- Microservices architecture
+- Advanced database optimization
+- Game engine development
+- Docker & DevOps fundamentals
+
+---
+
+## Development Philosophy
+
+```
+Build projects that matter.
+Master the fundamentals.
+Contribute to the community.
+Improve every single day.
+```
+
+I believe in learning by doing—each project teaches me something new about system design, user experience, and engineering best practices. I'm committed to writing clean, maintainable code and sharing knowledge with the developer community.
+
+---
+
+## Get in Touch
+
+I'm always interested in collaborating on interesting projects, discussing system design, or exploring new technologies.
+
+- 🌐 **Portfolio:** [roshansoni.netlify.app](https://roshansoni.netlify.app)
+- 💻 **GitHub:** [github.com/roshansoni-io](https://github.com/roshansoni-io)
+- 📧 Email: <roshan.soniin@gmail.com>
+
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d4ff,100:7928ca&height=120&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=22&fontColor=ffffff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:2563EB,100:0F172A&height=120&section=footer"/>
+
 </div>
