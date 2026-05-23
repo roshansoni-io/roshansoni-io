@@ -111,15 +111,12 @@ A socket-based chat application demonstrating efficient real-time messaging with
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshansoni-io&theme=tokyonight&hide_border=true"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=roshansoni-io&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div> <br>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=roshansoni-io&label=Profile%20Views&color=2563eb&style=flat" />
-<div>
-
+![](https://komarev.com/ghpvc/?username=roshansoni-io&label=Profile%20Views&color=2563eb&style=flat)
 
 ---
 
