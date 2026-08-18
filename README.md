@@ -1,15 +1,17 @@
 
 
-<table>
-  <tr>
-    <td>
-      <h1>Hi, I'm Roshan</h1>
-    </td>
-    <td>
-      <img src="./assets/red.gif" width="110" alt="Animation" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h1>Hi, I'm Roshan</h1>
+      </td>
+      <td>
+        <img src="./assets/red.gif" width="110" alt="Animation" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   Full-stack developer and student who enjoys building useful products, understanding systems deeply, and learning by shipping.
